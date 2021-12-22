@@ -5,3 +5,17 @@
 **Phone:** +375255491915\
 **Skype:** kai_mol\
 **GitHub:** Annkai
+
+## ABOUT ME
+My goal is to become a front-end developer and receive a job offer.
+I chose this direction because I like finding solutions to complex problems, constantly developing, seeing the results of my work and generally enjoying it.
+
+Qualities such as perseverance, meticulousness and attentiveness help me to master this profession. At the same time I am also very confident in my communication as I will need to interact with a team. This foundation was built upon my previous experience as a sales manager.
+
+In order to get closer to my goal, I took two courses at the Educational Center for Programming and High Tech (IT Academy). The "HTML, CSS, JavaScript" and the "Web application development with JavaScript" courses. As a result of this training, I have completed two graduation projects: a website in HTML and CSS (compatible for both desktop and mobile devices) and a side-scrolling game in JavaScript (Similar to "Flappy Bird").
+
+I also took part in several internships (Edavoz.by, ZNS) at Startups, so I have experience working in a team. The first project I worked on is an application that helps organize all your contacts in one place. My task was coding the authorization pages using a layout from Figma and also allowing users to sgn in to the app using sign-in methods such as email address with password, Google and Facebook using Firebase Authentication.
+
+The second project is a mobile version of a food delivery website. I needed to make a dynamically changing catalog and an order form for goods.
+
+In addition to my knowledge base, I actively seek out new technologies and try to stay up-to-date on industry trends and advancements. I am open to learning new information. My professional interests I would preferably learn are JavaScript technologies (s/a Angular, React, Node.js).
