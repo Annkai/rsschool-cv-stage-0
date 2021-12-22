@@ -94,7 +94,7 @@ Project description: An application that helps organize all contacts in one plac
     * CSS Lists, Text & Fonts and Tables
     * JavaScript Basics
     * [Complete Website Project](https://github.com/Annkai/Annkai.github.io)
-* **_2014_ Belarusian State Technological University / Economic Engineering Faculty**\ 
+* **_2014_ Belarusian State Technological University / Economic Engineering Faculty**\
 Specialization: Marketing
 ## ENGLISH LEVEL
 **A2**
