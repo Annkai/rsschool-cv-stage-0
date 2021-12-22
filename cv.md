@@ -31,3 +31,30 @@ In addition to my knowledge base, I actively seek out new technologies and try t
 * VS Code
 * Figma
 
+## CODE EXAMPLE
+
+       //Get a list of stores and display them in the catalog
+
+        async function getResponse() {
+
+        let respShops = await fetch('https://edavoz.todozzle.com/api/shops');
+        let shops = await respShops.json();
+        let shopsLength = shops.length;
+
+        function getShops(v, l) {
+
+        retailChainsCont.innerHTML += `
+        <div class="shop">
+        <label>
+        <img src="img/crown.jpg" class="shop-img">
+        <img src="img/checkbox.png" class="checkmark-img" id="checkmark_${l}">
+        <input type="checkbox" id="checkInput_${l}" class="shop-check-input" name="${v.original_id}"><span class="check-text">${v.name}</span>
+        </label>
+        </div>
+        `
+        }
+        shops.forEach(getShops);
+        }
+        getResponse();
+
+        
