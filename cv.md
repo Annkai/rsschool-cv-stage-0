@@ -97,3 +97,6 @@ Project description: An application that helps organize all contacts in one plac
 * **_2014_ Belarusian State Technological University / Economic Engineering Faculty**
 Specialization: Marketing
 
+## ENGLISH LEVEL
+**A2**
+
