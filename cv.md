@@ -57,4 +57,19 @@ In addition to my knowledge base, I actively seek out new technologies and try t
         }
         getResponse();
 
-        
+## WORK EXPERIENCE
+**Intern Front-end Developer, Startups (internship)**
+
+1. Project: Product catalog [(Edavoz.by)](https://github.com/Annkai/Edavoz)\
+Project description: Order form development (mobile version)
+    * Web APIs
+    * Figma prototypes
+
+2. Project: Web application [(ZNS)](https://github.com/Annkai/ZNS)\
+Project description: An application that helps organize all contacts in one place and increase the efficiency of business or grow up the career ladder.
+    * Firebase Auth
+    * Firebase Google Auth
+    * Firebase Facebook Auth
+    * Firebase Database
+    * Bootstrap Grid Layout
+            
