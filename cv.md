@@ -72,4 +72,28 @@ Project description: An application that helps organize all contacts in one plac
     * Firebase Facebook Auth
     * Firebase Database
     * Bootstrap Grid Layout
-            
+
+## EDUCATION
+* **_In progress_ RS Schools / Course "JavaScript/Front-end. Stage 0"**
+* **_2019_ IT Academy / Course "Web application development with JavaScript"**
+    * Fundamental knowledge necessary to develop dynamic Web pages using JavaScript
+    * Learning the syntax of the JavaScript language and how to use JavaScript in a Web browser
+    * Topics included ways to declare variables, use of intrinsic
+    * JavaScript objects such as Math, Date and Array, declaring and calling functions, defining custom objects, error handling, working with arrow functions, and using conditional logic
+    * Learning how to include JavaScript in a Web page and how to use browser-based APIs such as the Document Object Model (DOM) and Web Storage
+    * Utilization of event handling, form validation, JSON and Ajax.
+    * [Complete website project with JavaScript](https://project--annkai.repl.co/)
+* **_2019_ IT Academy / Course "HTML, CSS, JavaScript"**
+    * HTML Lists
+    * HTML Tables, URL's, Links
+    * TML and Images
+    * HTML Forms
+    * CSS Selectors
+    * CSS Dimensions
+    * CSS Box Model
+    * CSS Lists, Text & Fonts and Tables
+    * JavaScript Basics
+    * [Complete Website Project](https://github.com/Annkai/Annkai.github.io)
+* **_2014_ Belarusian State Technological University / Economic Engineering Faculty**
+Specialization: Marketing
+
