@@ -1,3 +1,166 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #47443f;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+h2 {
+    font-size: 22px;
+}
+
+.wrapper {
+    width: 1000px;
+}
+
+footer {
+    height: 48px;
+    background: #d9d9d9;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.github-icon {
+    width: 35px;
+    position: relative;
+    top: 3px;
+    left: 30px;
+}
+
+.rss-icon {
+    height: 30px;
+    position: relative;
+    top: 3px;
+    left: 40px;
+}
+
+.year {
+    position: relative;
+    left: 70px;
+}
+
+.container {
+    display: flex;
+    min-height: calc(100vh - 96px);
+}
+
+.main-nav {
+    flex: 0 0 350px;
+    background: #e8e5e0;
+}
+
+h1,
+h2 {
+    color: #9b4922;
+}
+
+nav>section>h2 {
+    text-align: center;
+}
+
+main {
+    flex: 1;
+}
+
+.menu-wrapper>ul {
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu-wrapper>ul>li {
+    list-style-type: none;
+}
+
+.menu-wrapper>ul>li:hover {
+    text-decoration: underline;
+}
+
+.menu-wrapper>ul>li>a {
+    text-decoration: none;
+    color: #764b36;
+}
+
+.photo-section {
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.photo-wrapper,
+.photo-inner {
+    border-radius: 50%;
+}
+
+.photo-wrapper {
+    width: 245px;
+    height: 245px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #ffffff;
+}
+
+.photo-inner {
+    width: 215px;
+    height: 215px;
+    overflow: hidden;
+    position: relative;
+}
+
 img {
-    width: 400px;
+    position: absolute;
+    width: 220px;
+    top: -5px;
+    left: -5px;
+}
+
+.name-section {
+    text-align: center;
+}
+
+.contacts-section>ul {
+    list-style-type: none;
+}
+
+.experience-section>ul>li {
+    padding-top: 10px;
+}
+
+.english-section>p {
+    padding-left: 40px;
+}
+
+.code-section {
+    height: 400px;
+}
+
+.code-inner {
+    height: 350px;
+    background: #fdf8f4;
+    overflow-y: scroll;
+}
+
+main>section {
+    padding-left: 20px;
+}
+
+@media screen and (max-width: 670px) {
+    .container {
+        flex-direction: column;
+    }
+    header {
+        display: none;
+    }
 }
